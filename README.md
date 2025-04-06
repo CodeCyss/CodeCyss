@@ -1,8 +1,7 @@
 ### Olá , Me chamo Edson Cysneiros 👋
 
-- 🌱 Atualmente estudando Python 
+- 🌱 .Lua
 - 📫 Contante-me por email : jecysneiros@hotmail.com
-- 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCyss&theme=highcontrast)
 
